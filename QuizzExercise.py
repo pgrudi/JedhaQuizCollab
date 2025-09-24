@@ -22,3 +22,5 @@ class Quiz:
 
         quizz = Quiz()
         quizz.respond_question()
+
+        Print("Piotr")
