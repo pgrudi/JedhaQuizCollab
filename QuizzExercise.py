@@ -22,5 +22,6 @@ class Quiz:
 
         quizz = Quiz()
         quizz.respond_question()
-print("" \
-"relax")
+        Print("Piotr");
+        print("relax");
+
